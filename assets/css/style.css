@@ -1,0 +1,53 @@
+.head{
+    background-color:rgb(80, 133, 230);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+    
+.image{
+    widows: 150px; 
+    height: 125px;
+}
+#target{
+    width: 150px;
+    height: 150px;
+    color: antiquewhite;
+    font-size: 50px;
+    padding-top:20px;
+    border-color: black; 
+}
+
+
+.crystal1, .crystal2, .crystal3, .crystal4{
+width: 150px;
+height:150px;
+border-right: 1px;
+}
+
+.container{
+    width: 80%;
+    height: 60%;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+h1, h2{
+    color: orange;
+    text-align: center;
+    text-decoration-style: double;
+}
+
+#result{
+    font-size: 50px;
+    color: yellow;
+
+}
+#your-score{
+    font-size: 40px;
+    color: blanchedalmond;
+}
+.wl{
+    font-size: 20px;
+    color:greenyellow;
+}
+
